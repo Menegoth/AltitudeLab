@@ -1,0 +1,3 @@
+﻿  altitude.c
+C:\Users\anton\Desktop\CSCI 112\AltitudeLab\altitude.c(31,8): warning C4013:  'system' undefined; assuming extern returning int
+  AltitudeLab.vcxproj -> C:\Users\anton\Desktop\CSCI 112\AltitudeLab\Debug\AltitudeLab.exe
